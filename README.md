@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zinnyxos
 - 👀 I’m interested in ... collaburation in gwtting my project done 
-- 🌱 I’m currently learning ...UI/UX DESIGN
+- 🌱 I’m currently learning ...Virtual Assistant 
 - 💞️ I’m looking to collaborate on ... Movie Seat Selection 
 - 📫 How to reach me ...just chat me up here 
 
